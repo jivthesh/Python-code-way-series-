@@ -1,15 +1,16 @@
 1.Why is the list used? 
 
-			A list keeps order, dict and set don't: when you care about order, therefore, you must use list .A list can store a sequence of objects in a certain order such that you can index into the list, or iterate over the list. List is a mutable type meaning that lists can be modified after they have been created.
+		A list keeps order, dict and set don't: when you care about order, therefore, you must use list .A list can store a sequence of objects in a certain order such that you can index into the list, or iterate over the list. List is a mutable type meaning that lists can be modified after they have been created.
 
 2.How do lists and sets differ?
 
 	Lists are standard Python data types that store values in a sequence. Sets are another standard Python data type that also stores values. The major difference is that sets, unlike lists, cannot have multiple occurrences of the same element and store unordered values.
 
-3.Application of dictionaries with a real-world example.?
+3.Application of dictionaries with a real-world example?
 
 	tel_dir = {'Mike': 123445689,'Haynes': 45678910, 'Mina':635363636}
 	tel_dir = { 'john': 123445689,'jithu': 45678910, 'kumar':635363636
-		PRINT(tel_dir)
+	PRINT(tel_dir)
+	
 In this example, a dictionary is created with three elements. The dictionary name is tel_dir where name will act as keys and telephone numbers as values
 
