@@ -31,5 +31,13 @@ print("The fruits set after performing a pop opearation: ", fruits)
 
 # using clear() method
 fruits.clear()
-print("The set languages after using clear method: ", fruits)
+print("The set fruits after using clear method: ", fruits)
 
+# Using the union function to return the union of two sets
+fruits1 = {"Passion Fruit"}
+mainSet = fruits.union(fruits1)
+print("The set fruits after using union function method: ",mainSet)
+
+# Using the difference function to return the union of two sets
+mainSet2 = mainSet.union(fruits)
+print("The set fruits after using clear method: ",mainSet2)
