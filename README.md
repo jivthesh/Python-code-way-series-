@@ -56,6 +56,7 @@
 1]Write a program in Python which would print all the prime numbers in a n*n matrix.
 
 2]Write a program in python which would contain a main.py file and should import other python files as modules and make the use of all the functions defined in the module, the different files should have the following function definition:
+
         a) A python file which should have a function to calculate the square of a number, find the maximum of a number in a list, minimum of a number in a list. Sum of all numbers in a list. (Not allowed to use default python function)
         b)A python file which should have a function to find the middle character of a string, count the number of vowels in a string, calculate the length of the string, calculate the number of words in a string.
         c)A python file which should show the use of all logical operators of python as different function definitions.
