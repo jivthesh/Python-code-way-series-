@@ -71,4 +71,30 @@
 
 4]Write a program in Python which should take a string of 3-4 lines and write it to a txt file.
 
+**Day 6 task**
+
+Q1 . Write a function for checking the speed of drivers. This function should have one parameter: speed.
+If speed is less than 70, it should print “Ok”.
+Otherwise, for every 5km above the speed limit (70), it should give the driver one demerit point and print the total number of demerit points. For example, if the speed is 80, it should print: “Points: 2”.
+If the driver gets more than 12 points, the function should print: “License suspended”
+ 
+Q2. Write a Python program to remove an empty tuple(s) from a list of tuples.
+Sample data: [(), (), ('',), ('a', 'b'), ('a', 'b', 'c'), ('d')]
+Expected output: [('',), ('a', 'b'), ('a', 'b', 'c'), 'd']
+ 
+Q3. Write a Python function that accepts a string and calculate the number of upper case letters and lower case letters. 
+ 
+Q4. Find all occurrences of “at” in given string ignoring the case(take string as input from user.)
+ 
+Q5. Create a function to count number of words in a sentence (Take input from user)
+ 
+Q6:  A positive integer, n, is said to be perfect  if the sum of its proper divisors equals the number itself. (Proper divisors include 1 but not the number itself.) If this sum is less than n, the number is deficient, and if the sum is greater than n, the number is abundant.
+Use the function name and the argument as:
+def findType(n):
+The Function should return 1 if the given integer is a deficient number, return 0 if it is a perfect number and return -1 if it is a abundant number.
+
+Q7: Create a function named check_marks.
+This method checks whether the marks is greater than  or equal to 90 and if it is greater than or equal to 90, the method returns True.
+If the marks is less than 90, a custom Exception named NotEligibleException is raised and an appropriate message as shown in the sample output is displayed.
+
 
