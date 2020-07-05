@@ -1,4 +1,5 @@
 #Q3
+
 def string_test(string):
     UL = {"UPPER_CASE":0, "LOWER_CASE":0}
     for i in string:
