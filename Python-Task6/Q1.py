@@ -13,7 +13,9 @@ def check_speed(driverSpeed):
 
         else:
             return print("License Suspended")
+        
 # Calling the function
+
 check_speed(driverSpeed)
 
 
