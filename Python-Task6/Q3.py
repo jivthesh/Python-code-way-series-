@@ -2,6 +2,7 @@
 
 def string_test(string):
     UL = {"UPPER_CASE":0, "LOWER_CASE":0}
+#performing iterations 
     for i in string:
         if i.isupper():
            UL["UPPER_CASE"]+= 1
