@@ -1,4 +1,4 @@
-# Python-code-way-series-
+# Python-code-way-series
 
 **Day 1 task**
 
