@@ -1,4 +1,4 @@
-fhksbs
+fhksb
 
 # Python-code-way-series
 
