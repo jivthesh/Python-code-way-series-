@@ -1,4 +1,4 @@
-fhks
+fhk
 
 # Python-code-way-series
 
