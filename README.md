@@ -1,5 +1,5 @@
 
-ggigi
+gg
 # Python-code-way-series
 
 **Day 1 task**
