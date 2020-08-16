@@ -1,4 +1,4 @@
-kjgjkgj
+kjgjkg
 # Python-code-way-series
 
 **Day 1 task**
