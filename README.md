@@ -1,4 +1,4 @@
-123456789
+23456789
 # Python-code-way-series
 
 **Day 1 task**
