@@ -1,4 +1,4 @@
-345
+34
 # Python-code-way-series
 
 **Day 1 task**
