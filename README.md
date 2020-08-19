@@ -1,4 +1,4 @@
-fge
+fg
 # Python-code-way-series
 
 **Day 1 task**
