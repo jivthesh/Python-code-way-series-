@@ -1,4 +1,4 @@
-3kbbsbbskbksbksbbskblskvbksbvlksbsbvsv
+3kbbsbbskbksbksbbskblskvbksbvlksbsbvs
 # Python-code-way-series
 
 **Day 1 task**
