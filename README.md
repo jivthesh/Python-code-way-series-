@@ -1,4 +1,4 @@
-gfhtnghthgddjjdkdkdlldldlldll
+gfhtnghthgddjjdkdkdlldldlldl
 # Python-code-way-series
 
 **Day 1 task**
