@@ -3,7 +3,7 @@ gfhtnght
 
 **Day 1 task**
 
-1]Write a program in Python which would include some code working with int
+1]Write a program in Python which would include some code wo
 
 2]Write a program in Python in which you should display your following details:
 
