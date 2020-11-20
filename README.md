@@ -100,6 +100,6 @@ gfhtnght
 7]Create a function named check_marks.
     
     This method checks whether the marks is greater than  or equal to 90 and if it is greater than or equal to 90, the method returns True.
-    If the marks is less than 90, a custom Exception named NotEligibleException is raised and an appropriate message as shown in the sample output is displayed.
+    If the marks is less than 90, a custom Exception named NotEligibleException is raised and an appropriate message as shown in the sample output is disp
 
 
